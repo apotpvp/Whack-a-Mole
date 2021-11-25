@@ -1,2 +1,2 @@
 # Whack-a-Mole
-Whack a mole
+Whack a mole voor eindproject FHICT 
